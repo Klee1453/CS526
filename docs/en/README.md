@@ -13,7 +13,7 @@ In the top right hand navigation bar, set the language to `Languages/zh-CN` and 
 
 This online document, built on VuePressV2, aims to translate some of the slides in Information Security CS526 (Purdue Univ.) into simplified Chinese, with the aim of enabling knowledge to cross language barriers, allowing more native Chinese speakers to better understand valuable content and generate more ideas and insights, just as the historical The aim was to enable knowledge to cross the language barrier so that more native Chinese speakers could better understand valuable content and generate more ideas and insights, as was the case with the historical Graeco-Arabic translation movement.
 
-In contrast to the mid-eighth to late tenth centuries, modern computer technology has provided a more collaborative mode of writing —— Git, similar to GitBook, and all translations of this online document have been uploaded to GitHub, which can be reached by clicking on `GitHub` in the top right-hand navigation bar. You are welcome to criticise and correct any shortcomings or errors in the translation, or even contribute to the unfinished parts of the translation.
+In contrast to the mid-eighth to late tenth centuries, modern computer technology has provided a more collaborative mode of writing —— Git, all translations of this online document have been uploaded to GitHub, which can be reached by clicking on `GitHub` in the top right-hand navigation bar. You are welcome to criticise and correct any shortcomings or errors in the translation, or even contribute to the unfinished parts of the translation.
 
 Finally, here is a cross-reference table that may be useful:
 

@@ -49,7 +49,7 @@ export default {
                     },
                     {
                         text: 'GitHub',
-                        link: 'https://github.com/',
+                        link: 'https://github.com/Klee1453/CS526',
                     },
                     {
                         text: 'CS526 - PU',
@@ -86,7 +86,7 @@ export default {
                     },
                     {
                         text: 'GitHub',
-                        link: 'https://github.com/',
+                        link: 'https://github.com/Klee1453/CS526',
                     },
                     {
                         text: 'CS526 - PU',
