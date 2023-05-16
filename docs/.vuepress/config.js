@@ -3,6 +3,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
 
 export default {
+    base: '/CS526/',
     locales: {
         '/': {
           lang: 'zh-CN',
