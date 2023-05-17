@@ -2,6 +2,7 @@
 
 这一页是按原课程顺序整理的目录页，点击下面的链接就能够跳转到你想要查看的幻灯片。
 
+- [Topic03: Cryptography - One-time Pad, Information Theoretic Security, and Stream Ciphers](/slides/slide03/s03.md)
 - [Topic07: User Authentication](/slides/slide07/s07.md)
 - [Topic08: Operating Systems Security Basics & Unix Access Control](/slides/slide08/s08.md)
 

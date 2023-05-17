@@ -6,6 +6,7 @@ The content on tis page may be out-of-date, please go to the [Chinese homepage](
 
 The following is a table of contents organised in the order of the original course, click on the links below to jump to the slide you want to view.
 
+- [Topic03: Cryptography - One-time Pad, Information Theoretic Security, and Stream Ciphers](/en/slides/slide03/s03.md)
 - [Topic07: User Authentication](/en/slides/slide07/s07.md)
 - [Topic08: Operating Systems Security Basics & Unix Access Control](/en/slides/slide08/s08.md)
 
