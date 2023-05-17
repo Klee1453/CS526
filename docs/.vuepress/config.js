@@ -1,6 +1,7 @@
 import { defaultTheme } from 'vuepress'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
+import MarkdownItKatex from 'markdown-it-katex'
 
 export default {
     base: '/CS526/',
@@ -119,4 +120,7 @@ export default {
         }),
         shikiPlugin({}),
     ],
+    extendsMarkdown: (md) => {
+        md.use(MarkdownItKatex)
+    },
 }
