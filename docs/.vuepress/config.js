@@ -29,7 +29,12 @@ export default {
                             collapsible: true,
                             children: [
                                 {
-                                    text: 'Topic 7: User Authentication',
+                                    text: 'Topic03: Cryptography - One-time Pad, Information Theoretic Security, and Stream Ciphers',
+                                    collapsible: true,
+                                    children: ['/slides/slide03/s03.md'],
+                                },                                
+                                {
+                                    text: 'Topic07: User Authentication',
                                     collapsible: true,
                                     children: ['/slides/slide07/s07.md'],
                                 },
@@ -65,6 +70,11 @@ export default {
                             text: 'CS526',
                             collapsible: true,
                             children: [
+                                {
+                                    text: 'Topic03: Cryptography - One-time Pad, Information Theoretic Security, and Stream Ciphers',
+                                    collapsible: true,
+                                    children: ['/en/slides/slide03/s03.md'],
+                                },  
                                 {
                                     text: 'Topic 7: User Authentication',
                                     collapsible: true,
