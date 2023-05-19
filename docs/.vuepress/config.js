@@ -32,8 +32,8 @@ export default {
                                 {
                                     text: 'Topic03: Cryptography - One-time Pad, Information Theoretic Security, and Stream Ciphers',
                                     collapsible: true,
-                                    children: ['/slides/slide03/s03.md'],
-                                },                                
+                                    children: ['/slides/slide03/s03.md', '/slides/slide03/cs555_s08.md'],
+                                },
                                 {
                                     text: 'Topic07: User Authentication',
                                     collapsible: true,
@@ -74,7 +74,7 @@ export default {
                                 {
                                     text: 'Topic03: Cryptography - One-time Pad, Information Theoretic Security, and Stream Ciphers',
                                     collapsible: true,
-                                    children: ['/en/slides/slide03/s03.md'],
+                                    children: ['/slides/slide03/s03.md', '/slides/slide03/cs555_s08.md'],
                                 },  
                                 {
                                     text: 'Topic 7: User Authentication',
