@@ -61,6 +61,11 @@ export default {
                         text: 'CS526 - PU',
                         link: 'https://www.cs.purdue.edu/homes/ninghui/courses/526_Fall14/lectures.html',
                     },
+                    // {
+                    //     text: 'CS555 - PU',
+                    //     link: 'https://www.cs.purdue.edu/homes/ninghui/courses/555_Spring12/lectures.html',
+                    //     activeMatch: '.*\/cs555\w*$',
+                    // },
                 ],
             },
             '/en/': {
@@ -74,7 +79,7 @@ export default {
                                 {
                                     text: 'Topic03: Cryptography - One-time Pad, Information Theoretic Security, and Stream Ciphers',
                                     collapsible: true,
-                                    children: ['/slides/slide03/s03.md', '/slides/slide03/cs555_s08.md'],
+                                    children: ['/en/slides/slide03/s03.md', '/en/slides/slide03/cs555_s08.md'],
                                 },  
                                 {
                                     text: 'Topic 7: User Authentication',
