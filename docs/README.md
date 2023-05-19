@@ -24,4 +24,4 @@
 | 2023-05-12, W3L2 | Role Based Access Control | | Role and Attribute Based Access Control | 14_526_topic22 | :upside_down_face:
 | 2023-05-14, W3L3 | Modern Crypto | | Cryptography: Semantic Security, Block Ciphers and Encryption Modes | 14_526_topic04 | :upside_down_face:
 | 2023-05-17, W4L1 | Stream Ciphers and CPA Security | | Cryptography: One-time Pad, Information  Theoretic Security, and Stream Ciphers | 14_526_topic03 | [:slightly_smiling_face:](/slides/slide03/s03.md)
-| 2023-05-19, W4L2 | Stream Ciphers and CPA Security | | Pseudorandom Functions and CPA Security | [12_**555**_topic08](https://www.cs.purdue.edu/homes/ninghui/courses/555_Spring12/lectures.html) | [:slightly_smiling_face:](/slides/slide03/cs555_s08.md)
+| 2023-05-19, W4L2 | PRF, CPA Security and CCA Security | | Pseudorandom Functions and CPA Security | [12_**555**_topic08](https://www.cs.purdue.edu/homes/ninghui/courses/555_Spring12/lectures.html) | [:slightly_smiling_face:](/slides/slide03/cs555_s08.md)
