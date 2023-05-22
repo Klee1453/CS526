@@ -9,7 +9,7 @@
 
 在右上角的导航栏中，将语言设置为`Languages/en-US`，你就能得到对应页面的英文原版以便对照阅读。此外你可以在右上角点击`CS526-PU`来访问英文资料的分享页，在这里向愿意在互联网上公开分享优质课件的教授们向致以崇高的敬意:+1::eyes:。
 
-本在线文档基于VuePressV2搭建，旨在将Information Security CS526 (Purdue Univ.)中的部分幻灯片翻译为简体中文，目的是使知识能够跨越语言障碍，让更多以中文为母语的人能够更好地理解有价值的内容，产生更多的想法和见解，如同历史上的希腊-阿拉伯翻译运动(Graeco-Arabic translation movement)一般。
+[本在线文档](https://klee1453.github.io/CS526/)使用VuePressV2 + GitHubPages搭建，旨在将Information Security CS526 (Purdue Univ.)中的部分幻灯片翻译为简体中文，目的是使知识能够跨越语言障碍，让更多以中文为母语的人能够更好地理解有价值的内容，产生更多的想法和见解，如同历史上的希腊-阿拉伯翻译运动(Graeco-Arabic translation movement)一般。
 
 本在线文档的所有翻译内容均已上传至GitHub，在右上角的导航栏中，点击`GitHub`就能够到达项目的仓库。欢迎大家针对翻译中的不足和纰漏做出批评与修正，乃至为未完成翻译的部分作出贡献。
 
