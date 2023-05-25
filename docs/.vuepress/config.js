@@ -44,6 +44,16 @@ export default {
                                     collapsible: true,
                                     children: ['/slides/slide08/s08.md'],
                                 },
+                                {
+                                    text: 'Topic 19: Integrity Protection Models',
+                                    collapsible: true,
+                                    children: ['/slides/slide19/s19.md'],
+                                },
+                                {
+                                    text: 'Topic 22: Role and Attribute Based Access Control',
+                                    collapsible: true,
+                                    children: ['/slides/slide22/s22.md'],
+                                },   
                             ],
                         },
                     ],
@@ -87,10 +97,20 @@ export default {
                                     children: ['/en/slides/slide07/s07.md'],
                                 },
                                 {
-                                    text: 'Topic 8 Operating Systems Security Basics & Unix Access Control',
+                                    text: 'Topic 8: Operating Systems Security Basics & Unix Access Control',
                                     collapsible: true,
                                     children: ['/en/slides/slide08/s08.md'],
                                 },
+                                {
+                                    text: 'Topic 19: Integrity Protection Models',
+                                    collapsible: true,
+                                    children: ['/en/slides/slide19/s19.md'],
+                                },
+                                {
+                                    text: 'Topic 22: Role and Attribute Based Access Control',
+                                    collapsible: true,
+                                    children: ['/en/slides/slide22/s22.md'],
+                                },                                
                             ],
                         },
                     ],
