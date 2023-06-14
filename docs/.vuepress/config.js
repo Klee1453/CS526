@@ -45,6 +45,11 @@ export default {
                                     children: ['/slides/slide08/s08.md'],
                                 },
                                 {
+                                    text: 'Topic16: Analysis of DAC’s Weaknesses',
+                                    collapsible: true,
+                                    children: ['/slides/slide16/s16.md'],
+                                },
+                                {
                                     text: 'Topic 19: Integrity Protection Models',
                                     collapsible: true,
                                     children: ['/slides/slide19/s19.md'],
@@ -100,6 +105,11 @@ export default {
                                     text: 'Topic 8: Operating Systems Security Basics & Unix Access Control',
                                     collapsible: true,
                                     children: ['/en/slides/slide08/s08.md'],
+                                },
+                                {
+                                    text: 'Topic16: Analysis of DAC’s Weaknesses',
+                                    collapsible: true,
+                                    children: ['/en/slides/slide16/s16.md'],
                                 },
                                 {
                                     text: 'Topic 19: Integrity Protection Models',

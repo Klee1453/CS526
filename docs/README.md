@@ -6,15 +6,14 @@
     - [**CS555** Topic08: Pseudorandom Functions and CPA Security](/slides/slide03/cs555_s08.md)
 - [Topic07: User Authentication](/slides/slide07/s07.md)
 - [Topic08: Operating Systems Security Basics & Unix Access Control](/slides/slide08/s08.md)
+- [Topic16: Analysis of DAC’s Weaknesses](/slides/slide16/s16.md)
 - [Topic19: Integrity Protection Models](/slides/slide19/s19.md)
 - [Topic22: Role and Attribute Based Access Control](/slides/slide22/s22.md)
 
 
-在右上角的导航栏中，将语言设置为`Languages/en-US`，你就能得到对应页面的英文原版以便对照阅读。此外你可以在右上角点击`CS526-PU`来访问英文资料的分享页，在这里向愿意在互联网上公开分享优质课件的教授们向致以崇高的敬意:+1::eyes:。
+在右上角的导航栏中，将语言设置为`Languages/en-US`，你就能得到对应页面的英文原版以便对照阅读。此外你可以在右上角点击`CS526-PU`来访问英文资料的分享页，:+1::eyes:。
 
-[本在线文档](https://klee1453.github.io/CS526/)使用VuePressV2 + GitHubPages搭建，将Information Security CS526 (Purdue Univ.)中的部分幻灯片翻译为简体中文，本在线文档的所有翻译内容均已上传至GitHub，在右上角的导航栏中，点击`GitHub`就能够到达项目的仓库。欢迎大家针对翻译中的不足和纰漏做出批评与修正，乃至为未完成翻译的部分作出贡献。
-
-最后，是一张可能有用的对照表：
+[本在线文档](https://klee1453.github.io/CS526/)使用VuePressV2 + GitHubPages搭建，将Information Security CS526 (Purdue Univ.)中的部分幻灯片翻译为简体中文，本在线文档的所有翻译内容均已上传至GitHub，在右上角的导航栏中，点击`GitHub`就能够到达项目的仓库。
 
 | Date             | Topic   | | Topic(PU)    | Where | Translation
 | ---------------- | :----------: |-|:------------:| :----:| :-:
@@ -26,4 +25,3 @@
 | 2023-05-14, W3L3 | Modern Crypto | | Cryptography: Semantic Security, Block Ciphers and Encryption Modes | 14_526_topic04 | :upside_down_face:
 | 2023-05-17, W4L1 | Stream Ciphers and CPA Security | | Cryptography: One-time Pad, Information  Theoretic Security, and Stream Ciphers | 14_526_topic03 | [:slightly_smiling_face:](/slides/slide03/s03.md)
 | 2023-05-19, W4L2 | PRF, CPA Security and CCA Security | | Pseudorandom Functions and CPA Security | [12_**555**_topic08](https://www.cs.purdue.edu/homes/ninghui/courses/555_Spring12/lectures.html) | [:slightly_smiling_face:](/slides/slide03/cs555_s08.md)
-| 2023-05-24, W5L1 | PRF, CPA Security and CCA Security | | unknown | unknown | :upside_down_face:
