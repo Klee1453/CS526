@@ -10,7 +10,7 @@ The following is a table of contents organised in the order of the original cour
     - [**CS555** Topic08: Pseudorandom Functions and CPA Security](/en/slides/slide03/cs555_s08.md)
 - [Topic07: User Authentication](/en/slides/slide07/s07.md)
 - [Topic08: Operating Systems Security Basics & Unix Access Control](/en/slides/slide08/s08.md)
-- [Topic16: Analysis of DAC’s Weaknesses](/en/slides/slide16/s16.md)
+- [Topic16: Analysis of DAC's Weaknesses](/en/slides/slide16/s16.md)
 - [Topic19: Integrity Protection Models](/en/slides/slide19/s19.md)
 - [Topic22: Role and Attribute Based Access Control](/en/slides/slide22/s22.md)
 

@@ -45,7 +45,7 @@ export default {
                                     children: ['/slides/slide08/s08.md'],
                                 },
                                 {
-                                    text: 'Topic16: Analysis of DAC’s Weaknesses',
+                                    text: 'Topic16: Analysis of DAC\'s Weaknesses',
                                     collapsible: true,
                                     children: ['/slides/slide16/s16.md'],
                                 },
@@ -107,7 +107,7 @@ export default {
                                     children: ['/en/slides/slide08/s08.md'],
                                 },
                                 {
-                                    text: 'Topic16: Analysis of DAC’s Weaknesses',
+                                    text: 'Topic16: Analysis of DAC\'s Weaknesses',
                                     collapsible: true,
                                     children: ['/en/slides/slide16/s16.md'],
                                 },
